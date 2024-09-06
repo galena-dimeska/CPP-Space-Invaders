@@ -2,9 +2,9 @@
 
 This project is a recreation of the classic game Space Invaders in C++, using the RayLib library.
 
-The game includes a main menu, where the player can choose to start the game or exit. 
+Apart from the main gameplay screen, the game includes a main menu, where the player may choose to either start the game or exit it. 
 
-Once the game starts, players control a spaceship that moves left or right and shoots lasers in order to kill the alien invader obstacles, which continuously move downwards towards the player, all the while trying to avoid getting hit by the enemies’ lasers. The score increases whenever an alien is hit, depending on its type, as well as when the player hits the mystery ship, which spawns at random time intervals. 
+Once the game starts, players control a spaceship that moves left or right and shoots lasers in order to kill the alien invader obstacles, which continuously move downwards towards the player, all the while trying to avoid getting hit by the enemies’ lasers. The score increases whenever an alien is hit, the value depending on its type, as well as when the player hits the mystery ship, which spawns at random time intervals. 
 
 The player has a total of three lives and the game ends when the spaceship has been hit by lasers three times or when it is touched by any of the aliens. The game keeps track of the high score on the device and once the game ends, the player may choose to either exit the game or restart it and try again.
 
