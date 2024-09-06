@@ -1,6 +1,6 @@
 # C++ Space Invaders
 
-This project is a recreation of the classic game Space Invaders in C++, using the RayLib library and object-oriented programming. 
+This project is a recreation of the classic game Space Invaders in C++, using the RayLib library.
 
 The game includes a main menu, where the player can choose to start the game or exit. 
 
